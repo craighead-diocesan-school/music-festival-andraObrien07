@@ -23,8 +23,7 @@
     }
     .navv {
         display: flex;
-        justify-content: space-between;
-        /* justify-items: center; */
+        justify-content: space-around;
         align-items: center;
     }
 </style>
