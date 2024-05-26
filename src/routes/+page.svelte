@@ -46,3 +46,12 @@
 </main>
 
 <Footer />
+
+<style>
+  img {
+    width: 700px;
+    /* align-items: center; */
+    display: flex;
+    justify-content: center;
+  }
+</style>

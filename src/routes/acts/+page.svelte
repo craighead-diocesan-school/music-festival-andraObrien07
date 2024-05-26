@@ -8,22 +8,22 @@
 <Nav />
 
 <main>
-    <h2>General Information</h2>
+    <h2>Acts</h2>
     <img
         src="/Acts/aditya-chinchure.jpg"
-        alt="view from mid crowd of stage with flames"
+        alt="behind crowd with rain lights and white confetti falling"
     />
     <img
         src="/Acts/colin-lloyd.jpg"
-        alt="people in the crowd on other peoples shoulders"
+        alt="close up of a DJ with a microphone on stage"
     />
     <img
         src="/Acts/danny-howe.jpg"
-        alt="purple confetti falling on crowd with stage behind it"
+        alt="back stage view of band playing with sun streaming in"
     />
     <img
         src="/Acts/maxwell-collins.jpg"
-        alt="people in front of stage with orange hue"
+        alt="backstage view of someone singing with crowd watching"
     />
 </main>
 <Footer />

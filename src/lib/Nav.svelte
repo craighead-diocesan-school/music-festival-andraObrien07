@@ -15,4 +15,10 @@
     nav {
         background: #f8c11b;
     }
+    img {
+        width: 130px;
+        /* display: flex; */
+        /* justify-items: center; */
+        /* align-items: center; */
+    }
 </style>

@@ -9,9 +9,21 @@
 
 <main>
     <h2>General Information</h2>
-    <img src="/General Information/colin-lloyd-2.jpg" alt="" />
-    <img src="/General Information/jade-masri.jpg" alt="" />
-    <img src="/General Information/samuel-regan-asante.jpg" alt="" />
-    <img src="/General Information/tijs-van-leur.jpg" alt="" />
+    <img
+        src="/General Information/colin-lloyd-2.jpg"
+        alt="view from mid crowd of stage with flames"
+    />
+    <img
+        src="/General Information/jade-masri.jpg"
+        alt="people in the crowd on other peoples shoulders"
+    />
+    <img
+        src="/General Information/samuel-regan-asante.jpg"
+        alt="purple confetti falling on crowd with stage behind it"
+    />
+    <img
+        src="/General Information/tijs-van-leur.jpg"
+        alt="people in front of stage with orange hue"
+    />
 </main>
 <Footer />
