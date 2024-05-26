@@ -17,8 +17,9 @@
     }
     img {
         width: 130px;
-        /* display: flex; */
+        display: flex;
+        justify-content: space-between;
         /* justify-items: center; */
-        /* align-items: center; */
+        align-items: center;
     }
 </style>
