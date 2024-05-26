@@ -8,7 +8,7 @@
 <Nav />
 
 <main>
-    <h2>General Information</h2>
+    <h2>General Information / Mōhiohio Whānui</h2>
     <img
         src="/General Information/colin-lloyd-2.jpg"
         alt="view from mid crowd of stage with flames"
@@ -51,3 +51,24 @@
     </p>
 </main>
 <Footer />
+
+<style>
+    p {
+        font-family: "Ibarra Real Nova";
+        padding: 7px;
+    }
+
+    h2 {
+        font-family: "griffy";
+        font-weight: 400;
+        font-style: normal;
+        font-size: 4em;
+        color: black;
+    }
+    img {
+        width: 700px;
+        /* align-items: center; */
+        display: flex;
+        justify-content: center;
+    }
+</style>

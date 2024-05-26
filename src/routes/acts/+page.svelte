@@ -8,7 +8,7 @@
 <Nav />
 
 <main>
-    <h2>Acts</h2>
+    <h2>Acts / Wāhanga</h2>
     <img
         src="/Acts/aditya-chinchure.jpg"
         alt="behind crowd with rain lights and white confetti falling"
@@ -77,6 +77,10 @@
 
     h2 {
         font-family: "griffy";
+        font-weight: 400;
+        font-style: normal;
+        font-size: 4em;
+        color: black;
     }
     img {
         width: 700px;
