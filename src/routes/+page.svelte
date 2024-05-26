@@ -54,4 +54,8 @@
     display: flex;
     justify-content: center;
   }
+
+  p {
+    font-family: "Ibarra Real Nova";
+  }
 </style>
