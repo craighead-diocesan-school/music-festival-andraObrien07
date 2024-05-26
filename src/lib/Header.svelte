@@ -9,7 +9,7 @@
     font-family: "Griffy";
     font-weight: 400;
     font-style: normal;
-    font-size: 7em;
+    font-size: 6em;
     display: flex;
     justify-content: center;
   }

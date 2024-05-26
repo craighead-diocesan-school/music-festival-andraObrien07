@@ -73,6 +73,7 @@
 <style>
     p {
         font-family: "Ibarra Real Nova";
+        text-align: center;
     }
 
     h2 {
@@ -81,19 +82,22 @@
         font-style: normal;
         font-size: 4em;
         color: black;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 28px;
     }
 
     img {
         width: 700px;
-        /* align-items: center; */
-        display: flex;
-        justify-content: center;
+        /* justify-content: center;
+        display: flex; */
     }
 
     .AcomoMain {
-        display: flex;
-        justify-content: space-around;
-        /* align-items: center; */
-        /* justify-content: center; */
+        width: 900px;
+        margin: auto;
+        align-items: center;
     }
 </style>
