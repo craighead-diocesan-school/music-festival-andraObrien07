@@ -57,5 +57,6 @@
 
   p {
     font-family: "Ibarra Real Nova";
+    color: black;
   }
 </style>

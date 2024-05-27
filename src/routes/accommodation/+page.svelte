@@ -74,6 +74,7 @@
     p {
         font-family: "Ibarra Real Nova";
         text-align: center;
+        color: black;
     }
 
     h2 {
