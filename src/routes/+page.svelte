@@ -51,12 +51,15 @@
   img {
     width: 700px;
     /* align-items: center; */
-    display: flex;
-    justify-content: center;
   }
 
   p {
     font-family: "Ibarra Real Nova";
     color: black;
+    text-align: center;
+  }
+
+  main {
+    padding-top: 50px;
   }
 </style>

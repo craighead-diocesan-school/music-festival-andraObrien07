@@ -92,7 +92,7 @@
     }
 
     img {
-        width: 700px;
+        width: 900px;
         /* justify-content: center;
         display: flex; */
     }
