@@ -9,9 +9,10 @@
 
 <main>
     <h2>Acts / Wāhanga</h2>
+
     <img
-        src="/Acts/aditya-chinchure.jpg"
-        alt="behind crowd with rain lights and white confetti falling"
+        src="/Acts/danny-howe.jpg"
+        alt="back stage view of band playing with sun streaming in"
     />
     <p>
         The music festival boasts an exciting lineup of talented musicians from
@@ -28,9 +29,10 @@
         artist, whose iconic rhymes and charismatic stage presence will bring
         the festival to a thrilling close.
     </p>
+
     <img
-        src="/Acts/colin-lloyd.jpg"
-        alt="close up of a DJ with a microphone on stage"
+        src="/Acts/maxwell-collins.jpg"
+        alt="backstage view of someone singing with crowd watching"
     />
     <p>
         On the second stage, indie bands and singer-songwriters showcase their
@@ -48,8 +50,8 @@
         musicians.
     </p>
     <img
-        src="/Acts/danny-howe.jpg"
-        alt="back stage view of band playing with sun streaming in"
+        src="/Acts/colin-lloyd.jpg"
+        alt="close up of a DJ with a microphone on stage"
     />
     <p>
         Throughout the festival, DJs and electronic acts keep the energy up
@@ -62,9 +64,10 @@
         emerging talent, the festival promises a memorable and thrilling musical
         experience for all attendees.
     </p>
+
     <img
-        src="/Acts/maxwell-collins.jpg"
-        alt="backstage view of someone singing with crowd watching"
+        src="/Acts/aditya-chinchure.jpg"
+        alt="behind crowd with rainbow lights and white confetti falling"
     />
 </main>
 <Footer />
@@ -82,6 +85,11 @@
         font-style: normal;
         font-size: 4em;
         color: black;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 20px;
     }
     img {
         width: 700px;

@@ -12,8 +12,8 @@
 
     <div class="AcomoMain">
         <img
-            src="/Accommodation/danny-howe-2.jpg"
-            alt="behind crowd with white confetti falling"
+            src="/Accommodation/krists-luhaers.jpg"
+            alt="person dancing in front of tents"
         />
 
         <p>
@@ -28,9 +28,10 @@
             blankets, you can get a good night's sleep and wake up feeling
             refreshed and ready for another day of music and fun.
         </p>
+
         <img
-            src="/Accommodation/hanny-naibaho.jpg"
-            alt="behind crowd view of stage and pruple lights"
+            src="/Accommodation/vonecia-carswell.jpg"
+            alt="people dancing and talking with eachother"
         />
         <p>
             Located within the festival grounds, our tents are just a short walk
@@ -47,8 +48,8 @@
         </p>
 
         <img
-            src="/Accommodation/krists-luhaers.jpg"
-            alt="person dancing in front of tents"
+            src="/Accommodation/danny-howe-2.jpg"
+            alt="behind crowd with white confetti falling"
         />
         <p>
             But the best part of our tent accommodation packages is the
@@ -63,8 +64,8 @@
             for an unforgettable adventure. We can't wait to see you there!
         </p>
         <img
-            src="/Accommodation/vonecia-carswell.jpg"
-            alt="people dancing and talking with eachother"
+            src="/Accommodation/hanny-naibaho.jpg"
+            alt="behind crowd view of stage and pruple lights"
         />
     </div>
 </main>
@@ -87,7 +88,7 @@
         display: flex;
         justify-content: center;
         margin-top: 50px;
-        margin-bottom: 28px;
+        margin-bottom: 20px;
     }
 
     img {

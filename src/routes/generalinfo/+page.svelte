@@ -9,17 +9,18 @@
 
 <main>
     <h2>General Information / Mōhiohio Whānui</h2>
+
     <img
-        src="/General Information/colin-lloyd-2.jpg"
-        alt="view from mid crowd of stage with flames"
+        src="/General Information/jade-masri.jpg"
+        alt="people in the crowd on other peoples shoulders"
     />
     <p>
         Welcome to the ultimate music festival experience! Get ready for a day
         filled with live music, great food, and unforgettable memories.
     </p>
     <img
-        src="/General Information/jade-masri.jpg"
-        alt="people in the crowd on other peoples shoulders"
+        src="/General Information/tijs-van-leur.jpg"
+        alt="people in front of stage with orange hue"
     />
     <p>
         Our festival features a diverse lineup of talented musicians from
@@ -27,9 +28,10 @@
         stages set up throughout the venue, you can easily move from one act to
         the next, discovering new favorites and enjoying classic hits.
     </p>
+
     <img
-        src="/General Information/samuel-regan-asante.jpg"
-        alt="purple confetti falling on crowd with stage behind it"
+        src="/General Information/colin-lloyd-2.jpg"
+        alt="view from mid crowd of stage with flames"
     />
     <p>
         From up-and-coming artists to established headliners, we have curated an
@@ -38,9 +40,10 @@
         your favorite artists live, and make lasting memories with friends and
         family.
     </p>
+
     <img
-        src="/General Information/tijs-van-leur.jpg"
-        alt="people in front of stage with orange hue"
+        src="/General Information/samuel-regan-asante.jpg"
+        alt="purple confetti falling on crowd with stage behind it"
     />
     <p>
         But the music is just the beginning. Our festival also boasts an
@@ -65,6 +68,11 @@
         font-style: normal;
         font-size: 4em;
         color: black;
+        align-items: center;
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
+        margin-bottom: 20px;
     }
     img {
         width: 700px;
