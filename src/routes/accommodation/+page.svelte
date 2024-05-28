@@ -76,6 +76,9 @@
         font-family: "Ibarra Real Nova";
         text-align: center;
         color: black;
+        width: 800px;
+        padding-bottom: 25px;
+        padding-top: 25px;
     }
 
     h2 {
@@ -93,13 +96,11 @@
 
     img {
         width: 900px;
-        /* justify-content: center;
-        display: flex; */
     }
 
     .AcomoMain {
-        width: 900px;
-        margin: auto;
+        display: flex;
+        flex-direction: column;
         align-items: center;
     }
 </style>
