@@ -76,7 +76,7 @@
 <style>
     p {
         font-family: "Ibarra Real Nova";
-        color: black;
+        color: #612a9e;
         width: 800px;
         text-align: center;
         padding-bottom: 25px;

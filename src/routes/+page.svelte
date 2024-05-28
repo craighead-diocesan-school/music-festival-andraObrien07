@@ -13,7 +13,7 @@
       Welcome to the ultimate music festival experience! Get ready for a day
       filled with live music, great food, and unforgettable memories.
     </p>
-    <p>
+    <p class="Maori">
       Nau mai ki te wā tuki puoro mutunga kore! Kia rite mō tētahi rā ki tonu i
       te puoro ora, ngā kai reka, me ngā maharatanga mutungakore
     </p>
@@ -25,25 +25,22 @@
       Tickets are $200 per person, and festival goers must be 15 years of age or
       older.
     </p>
-    <p />
-    <p>
+
+    <p class="Maori">
       He $200 ia tangata ngā tīkiti, ā, me 15 tau te pakeke o te hunga haere ki
       te taiopenga, neke atu rānei.
     </p>
 
     <p>Tent sites are $15 per night, or $40 with a tent included.</p>
 
-    <p>Ko ngā wāhi puni he $15 ia pō, $40 rānei mēnā ka tukuna he tēneti.</p>
+    <p class="Maori">
+      Ko ngā wāhi puni he $15 ia pō, $40 rānei mēnā ka tukuna he tēneti.
+    </p>
 
     <img
       src="/Home:SunBurst/aranxa-esteve.jpg"
       alt="People sitting on hill at festival"
     />
-
-    <p>
-      Welcome to coding with SvelteKit, a modern JavaScript framework that makes
-      it easy to code great apps.
-    </p>
   </div>
 </main>
 
@@ -52,11 +49,15 @@
 <style>
   p {
     font-family: "Ibarra Real Nova";
-    color: black;
+    color: #612a9e;
     text-align: center;
     width: 800px;
-    padding-bottom: 25px;
+    /* padding-bottom: 25px; */
     padding-top: 25px;
+  }
+  .Maori {
+    padding-top: 2px;
+    padding-bottom: 25px;
   }
 
   main {
