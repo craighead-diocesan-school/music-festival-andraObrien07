@@ -13,5 +13,6 @@
         font-size: 1em;
         display: flex;
         justify-content: center;
+        margin-top: 75px;
     }
 </style>
