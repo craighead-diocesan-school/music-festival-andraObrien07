@@ -74,7 +74,6 @@
         font-style: normal;
         font-size: 4em;
         color: black;
-        align-items: center;
         display: flex;
         justify-content: center;
         margin-top: 50px;
@@ -89,5 +88,32 @@
         display: flex;
         flex-direction: column;
         align-items: center;
+    }
+    @media screen and (max-width: 1000px) {
+        .GinfoMain {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-left: 7px;
+            margin-right: 7px;
+        }
+
+        img {
+            width: 500px;
+        }
+        p {
+            font-family: "Ibarra Real Nova";
+            color: #612a9e;
+            text-align: center;
+            width: 400px;
+
+            padding-top: 10px;
+        }
+        h2 {
+            font-size: 1.65em;
+            margin-top: 20px;
+            margin-bottom: 5px;
+            text-align: center;
+        }
     }
 </style>
