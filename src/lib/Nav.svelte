@@ -53,4 +53,26 @@
         justify-content: space-around;
         align-items: center;
     }
+    @media screen and (max-width: 1000px) {
+        img {
+            width: 90px;
+            margin-top: 6px;
+            margin-bottom: 6px;
+        }
+        .info {
+            width: 90px;
+        }
+
+        .mircophone {
+            width: 55px;
+        }
+
+        .luggage {
+            width: 90px;
+        }
+
+        .sun {
+            width: 70px;
+        }
+    }
 </style>

@@ -73,4 +73,26 @@
     flex-direction: column;
     align-items: center;
   }
+
+  @media screen and (max-width: 1000px) {
+    .SunMain {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-left: 7px;
+      margin-right: 7px;
+    }
+
+    img {
+      width: 500px;
+    }
+    p {
+      font-family: "Ibarra Real Nova";
+      color: #612a9e;
+      text-align: center;
+      width: 400px;
+
+      padding-top: 10px;
+    }
+  }
 </style>

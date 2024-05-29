@@ -15,4 +15,9 @@
         justify-content: center;
         margin-top: 75px;
     }
+    @media screen and (max-width: 1000px) {
+        footer {
+            margin-top: 50px;
+        }
+    }
 </style>
