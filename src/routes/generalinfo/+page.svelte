@@ -8,9 +8,9 @@
 <Nav />
 
 <main>
+    <!-- <div class="GinfoMain"> -->
+    <h2>General Information / Mōhiohio Whānui</h2>
     <div class="GinfoMain">
-        <h2>General Information / Mōhiohio Whānui</h2>
-
         <img
             src="/General Information/jade-masri.jpg"
             alt="people in the crowd on other peoples shoulders"
@@ -81,7 +81,7 @@
         display: flex;
         justify-content: center;
         margin-top: 50px;
-        margin-bottom: 20px;
+        margin-bottom: 5px;
     }
 
     img {

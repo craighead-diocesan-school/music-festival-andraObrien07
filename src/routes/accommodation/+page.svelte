@@ -8,9 +8,9 @@
 <Nav />
 
 <main>
-    <h2>Accommodation / Whare Noho</h2>
-
     <div class="AcomoMain">
+        <h2>Accommodation / Whare Noho</h2>
+
         <img
             src="/Accommodation/krists-luhaers.jpg"
             alt="person dancing in front of tents"
@@ -129,7 +129,7 @@
         h2 {
             font-size: 2em;
             margin-top: 20px;
-            margin-bottom: 5px;
+            margin-bottom: 3px;
         }
     }
 </style>
