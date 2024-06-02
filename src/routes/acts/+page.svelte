@@ -93,7 +93,6 @@
         font-style: normal;
         font-size: 4em;
         color: black;
-
         display: flex;
         justify-content: center;
         margin-top: 50px;
