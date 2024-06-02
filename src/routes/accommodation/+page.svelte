@@ -14,6 +14,7 @@
         <img
             src="/Accommodation/krists-luhaers.jpg"
             alt="person dancing in front of tents"
+            title="Photo by Krists Luhaers"
         />
 
         <p>
@@ -32,6 +33,7 @@
         <img
             src="/Accommodation/vonecia-carswell.jpg"
             alt="people dancing and talking with eachother"
+            title="Photo by Vonecia Carswell"
         />
         <p>
             Located within the festival grounds, our tents are just a short walk
@@ -50,6 +52,7 @@
         <img
             src="/Accommodation/danny-howe-2.jpg"
             alt="behind crowd with white confetti falling"
+            title="Photo by Danny Howe"
         />
         <p>
             But the best part of our tent accommodation packages is the
@@ -66,6 +69,7 @@
         <img
             src="/Accommodation/hanny-naibaho.jpg"
             alt="behind crowd view of stage and pruple lights"
+            title="Photo by Hanny Naibaho"
         />
     </div>
 </main>

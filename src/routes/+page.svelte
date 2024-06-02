@@ -11,7 +11,7 @@
     <img
       src="/Home:SunBurst/tony-pham.jpg"
       alt="color explosion at festival"
-      title="Tony Pham"
+      title="Photo by Tony Pham"
     />
     <p>
       Welcome to the ultimate music festival experience! Get ready for a day
@@ -24,7 +24,7 @@
     <img
       src="/Home:SunBurst/james-genchi.jpg "
       alt=" People at festival with confetti"
-      title="James Genchi"
+      title="Photo by James Genchi"
     />
     <p>
       Tickets are $200 per person, and festival goers must be 15 years of age or
@@ -45,7 +45,7 @@
     <img
       src="/Home:SunBurst/aranxa-esteve.jpg"
       alt="People sitting on hill at festival"
-      title="Aranxa Esteve"
+      title="Photo by Aranxa Esteve"
     />
   </div>
 </main>
