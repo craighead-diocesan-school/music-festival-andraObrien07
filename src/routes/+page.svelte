@@ -8,7 +8,11 @@
 <Nav />
 <main>
   <div class="SunMain">
-    <img src="/Home:SunBurst/tony-pham.jpg" alt="color explosion at festival" />
+    <img
+      src="/Home:SunBurst/tony-pham.jpg"
+      alt="color explosion at festival"
+      title="AndrCoam"
+    />
     <p>
       Welcome to the ultimate music festival experience! Get ready for a day
       filled with live music, great food, and unforgettable memories.
