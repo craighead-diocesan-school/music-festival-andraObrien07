@@ -130,6 +130,7 @@
             font-size: 2em;
             margin-top: 20px;
             margin-bottom: 3px;
+            text-align: center;
         }
     }
 </style>
