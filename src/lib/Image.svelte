@@ -1,16 +1,22 @@
 <script>
     export let src;
-    export let caption;
+    export let title;
     export let alt;
 </script>
 
 <figure>
-    <img {src} {alt} {caption} />
-    <!-- <figurecaption> {caption}</figurecaption> -->
+    <img {src} {alt} {title} />
+    <figcaption>Photo taken by {title}</figcaption>
 </figure>
 
 <style>
     img {
         width: 900px;
+    }
+
+    @media screen and (max-width: 1000px) {
+        img {
+            width: 500px;
+        }
     }
 </style>

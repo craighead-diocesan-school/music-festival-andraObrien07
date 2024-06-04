@@ -11,11 +11,10 @@
 <main>
     <h2>Acts / Wāhanga</h2>
     <div class=" ActsMain">
-        <img
-            Image
+        <Image
             src="/Acts/danny-howe.jpg"
             alt="back stage view of band playing with sun streaming in"
-            title="Photo by Danny Howe"
+            title="Danny Howe"
         />
         <p>
             The music festival boasts an exciting lineup of talented musicians
@@ -33,11 +32,10 @@
             presence will bring the festival to a thrilling close.
         </p>
 
-        <img
-            Image
+        <Image
             src="/Acts/maxwell-collins.jpg"
             alt="backstage view of someone singing with crowd watching"
-            title="Photo by Maxwell Collins"
+            title="Maxwell Collins"
         />
         <p>
             On the second stage, indie bands and singer-songwriters showcase
@@ -54,11 +52,10 @@
             attendees to discover new artists and support the next generation of
             musicians.
         </p>
-        <img
-            Image
+        <Image
             src="/Acts/colin-lloyd.jpg"
             alt="close up of a DJ with a microphone on stage"
-            title="Photo by Colin Lloyd"
+            title="Colin Lloyd"
         />
         <p>
             Throughout the festival, DJs and electronic acts keep the energy up
@@ -72,11 +69,10 @@
             thrilling musical experience for all attendees.
         </p>
 
-        <img
-            Image
+        <Image
             src="/Acts/aditya-chinchure.jpg"
             alt="behind crowd with rainbow lights and white confetti falling"
-            title="Photo by Aditya Chinchure"
+            title="Aditya Chinchure"
         />
     </div>
 </main>
@@ -104,9 +100,6 @@
         margin-top: 50px;
         margin-bottom: 20px;
     }
-    img {
-        width: 900px;
-    }
 
     .ActsMain {
         display: flex;
@@ -123,15 +116,12 @@
             margin-right: 7px;
         }
 
-        img {
-            width: 500px;
-        }
         p {
             font-family: "Ibarra Real Nova";
             color: #612a9e;
             text-align: center;
-            width: 400px;
-
+            width: 350px;
+            font-size: 12px;
             padding-top: 10px;
         }
         h2 {

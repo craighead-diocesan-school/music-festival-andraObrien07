@@ -12,16 +12,10 @@
     <div class="AcomoMain">
         <h2>Accommodation / Whare Noho</h2>
 
-        <!-- <img
+        <Image
             src="/Accommodation/krists-luhaers.jpg"
             alt="person dancing in front of tents"
-            title="Photo by Krists Luhaers"
-        /> -->
-        <img
-            Image
-            src="/Accommodation/krists-luhaers.jpg"
-            alt="person dancing in front of tents"
-            Title="Photo by Krists Luhaers"
+            Title="Krists Luhaers"
         />
 
         <p>
@@ -37,11 +31,10 @@
             refreshed and ready for another day of music and fun.
         </p>
 
-        <img
-            Image
+        <Image
             src="/Accommodation/vonecia-carswell.jpg"
             alt="people dancing and talking with eachother"
-            title="Photo by Vonecia Carswell"
+            title="Vonecia Carswell"
         />
         <p>
             Located within the festival grounds, our tents are just a short walk
@@ -57,11 +50,10 @@
             may have during your stay.
         </p>
 
-        <img
-            Image
+        <Image
             src="/Accommodation/danny-howe-2.jpg"
             alt="behind crowd with white confetti falling"
-            title="Photo by Danny Howe"
+            title="Danny Howe"
         />
         <p>
             But the best part of our tent accommodation packages is the
@@ -75,11 +67,10 @@
             experience. Book your tent accommodation package today and get ready
             for an unforgettable adventure. We can't wait to see you there!
         </p>
-        <img
-            Image
+        <Image
             src="/Accommodation/hanny-naibaho.jpg"
             alt="behind crowd view of stage and pruple lights"
-            title="Photo by Hanny Naibaho"
+            title="Hanny Naibaho"
         />
     </div>
 </main>
@@ -108,10 +99,6 @@
         margin-bottom: 20px;
     }
 
-    img {
-        width: 900px;
-    }
-
     .AcomoMain {
         display: flex;
         flex-direction: column;
@@ -126,15 +113,12 @@
             margin-right: 7px;
         }
 
-        img {
-            width: 500px;
-        }
         p {
             font-family: "Ibarra Real Nova";
             color: #612a9e;
             text-align: center;
-            width: 400px;
-
+            width: 350px;
+            font-size: 12px;
             padding-top: 10px;
         }
         h2 {

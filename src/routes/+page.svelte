@@ -12,7 +12,7 @@
     <Image
       src="/Home:SunBurst/tony-pham.jpg"
       alt="color explosion at festival"
-      title="Photo by Tony Pham"
+      title="Tony Pham"
     />
     <p>
       Welcome to the ultimate music festival experience! Get ready for a day
@@ -25,7 +25,7 @@
     <Image
       src="/Home:SunBurst/james-genchi.jpg "
       alt=" People at festival with confetti"
-      title="Photo by James Genchi"
+      title="James Genchi"
     />
     <p>
       Tickets are $200 per person, and festival goers must be 15 years of age or
@@ -46,7 +46,7 @@
     <Image
       src="/Home:SunBurst/aranxa-esteve.jpg"
       alt="People sitting on hill at festival"
-      title="Photo by Aranxa Esteve"
+      title="Aranxa Esteve"
     />
   </div>
 </main>
@@ -91,8 +91,8 @@
       font-family: "Ibarra Real Nova";
       color: #612a9e;
       text-align: center;
-      width: 400px;
-
+      width: 350px;
+      font-size: 12px;
       padding-top: 10px;
     }
   }

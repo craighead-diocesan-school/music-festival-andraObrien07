@@ -12,21 +12,19 @@
     <!-- <div class="GinfoMain"> -->
     <h2>General Information / Mōhiohio Whānui</h2>
     <div class="GinfoMain">
-        <img
-            Image
+        <Image
             src="/General Information/jade-masri.jpg"
             alt="people in the crowd on other peoples shoulders"
-            title="Photo by Jade Masri"
+            title="Jade Masri"
         />
         <p>
             Welcome to the ultimate music festival experience! Get ready for a
             day filled with live music, great food, and unforgettable memories.
         </p>
-        <img
-            Image
+        <Image
             src="/General Information/tijs-van-leur.jpg"
             alt="people in front of stage with orange hue"
-            title="Photo by Tijs Van Leur"
+            title="Tijs Van Leur"
         />
         <p>
             Our festival features a diverse lineup of talented musicians from
@@ -36,11 +34,10 @@
             classic hits.
         </p>
 
-        <img
-            Image
+        <Image
             src="/General Information/colin-lloyd-2.jpg"
             alt="view from mid crowd of stage with flames"
-            title="Photo by Colin Lloyd"
+            title="Colin Lloyd"
         />
         <p>
             From up-and-coming artists to established headliners, we have
@@ -50,11 +47,10 @@
             memories with friends and family.
         </p>
 
-        <img
-            Image
+        <Image
             src="/General Information/samuel-regan-asante.jpg"
             alt="purple confetti falling on crowd with stage behind it"
-            title="Photo by Samuel Regan Asante"
+            title="Samuel Regan Asante"
         />
         <p>
             But the music is just the beginning. Our festival also boasts an
@@ -90,10 +86,6 @@
         margin-bottom: 5px;
     }
 
-    img {
-        width: 900px;
-    }
-
     .GinfoMain {
         display: flex;
         flex-direction: column;
@@ -108,15 +100,12 @@
             margin-right: 7px;
         }
 
-        img {
-            width: 500px;
-        }
         p {
             font-family: "Ibarra Real Nova";
             color: #612a9e;
             text-align: center;
-            width: 400px;
-
+            width: 350px;
+            font-size: 12px;
             padding-top: 10px;
         }
         h2 {
