@@ -11,11 +11,16 @@
     <div class="AcomoMain">
         <h2>Accommodation / Whare Noho</h2>
 
-        <img
+        <!-- <img
             src="/Accommodation/krists-luhaers.jpg"
             alt="person dancing in front of tents"
             title="Photo by Krists Luhaers"
-        />
+        /> -->
+        <img
+        Image src= '/Accommodation/krists-luhaers.jpg'
+        Image alt="person dancing in front of tents"
+       Image Caption="Photo by Krists Luhaers"
+    />
 
         <p>
             Experience the ultimate music festival adventure with our tent
