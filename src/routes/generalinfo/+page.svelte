@@ -71,10 +71,11 @@
     p {
         font-family: "Ibarra Real Nova";
         width: 800px;
-        color: #612a9e;
+        color: #7e20eb;
         text-align: center;
         padding-bottom: 25px;
         padding-top: 25px;
+        font-weight: bolder;
     }
 
     h2 {

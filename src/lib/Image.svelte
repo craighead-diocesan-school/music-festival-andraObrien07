@@ -6,7 +6,7 @@
 
 <figure>
     <img {src} {alt} {caption} />
-    <figurecaption> {caption}</figurecaption>
+    <!-- <figurecaption> {caption}</figurecaption> -->
 </figure>
 
 <style>
