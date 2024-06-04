@@ -2,6 +2,7 @@
     import Header from "$lib/Header.svelte";
     import Footer from "$lib/Footer.svelte";
     import Nav from "$lib/Nav.svelte";
+    import Image from "$lib/Image.svelte";
 </script>
 
 <Header />
@@ -12,6 +13,7 @@
     <h2>General Information / Mōhiohio Whānui</h2>
     <div class="GinfoMain">
         <img
+            Image
             src="/General Information/jade-masri.jpg"
             alt="people in the crowd on other peoples shoulders"
             title="Photo by Jade Masri"
@@ -21,6 +23,7 @@
             day filled with live music, great food, and unforgettable memories.
         </p>
         <img
+            Image
             src="/General Information/tijs-van-leur.jpg"
             alt="people in front of stage with orange hue"
             title="Photo by Tijs Van Leur"
@@ -34,6 +37,7 @@
         </p>
 
         <img
+            Image
             src="/General Information/colin-lloyd-2.jpg"
             alt="view from mid crowd of stage with flames"
             title="Photo by Colin Lloyd"
@@ -47,6 +51,7 @@
         </p>
 
         <img
+            Image
             src="/General Information/samuel-regan-asante.jpg"
             alt="purple confetti falling on crowd with stage behind it"
             title="Photo by Samuel Regan Asante"

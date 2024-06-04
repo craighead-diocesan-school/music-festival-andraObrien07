@@ -2,6 +2,7 @@
     import Header from "$lib/Header.svelte";
     import Footer from "$lib/Footer.svelte";
     import Nav from "$lib/Nav.svelte";
+    import Image from "$lib/Image.svelte";
 </script>
 
 <Header />
@@ -20,7 +21,7 @@
             Image
             src="/Accommodation/krists-luhaers.jpg"
             alt="person dancing in front of tents"
-            Caption="Photo by Krists Luhaers"
+            Title="Photo by Krists Luhaers"
         />
 
         <p>
@@ -37,6 +38,7 @@
         </p>
 
         <img
+            Image
             src="/Accommodation/vonecia-carswell.jpg"
             alt="people dancing and talking with eachother"
             title="Photo by Vonecia Carswell"
@@ -56,6 +58,7 @@
         </p>
 
         <img
+            Image
             src="/Accommodation/danny-howe-2.jpg"
             alt="behind crowd with white confetti falling"
             title="Photo by Danny Howe"
@@ -73,6 +76,7 @@
             for an unforgettable adventure. We can't wait to see you there!
         </p>
         <img
+            Image
             src="/Accommodation/hanny-naibaho.jpg"
             alt="behind crowd view of stage and pruple lights"
             title="Photo by Hanny Naibaho"

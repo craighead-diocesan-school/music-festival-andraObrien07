@@ -5,9 +5,12 @@
 </script>
 
 <figure>
-    <img {src} {alt} title={caption} />
-    <figurecaption>"Photo taken by caption" {caption}</figurecaption>
+    <img {src} {alt} {caption} />
+    <figurecaption> {caption}</figurecaption>
 </figure>
 
 <style>
+    img {
+        width: 900px;
+    }
 </style>

@@ -2,13 +2,14 @@
   import Header from "$lib/Header.svelte";
   import Footer from "$lib/Footer.svelte";
   import Nav from "$lib/Nav.svelte";
+  import Image from "$lib/Image.svelte";
 </script>
 
 <Header />
 <Nav />
 <main>
   <div class="SunMain">
-    <img
+    <Image
       src="/Home:SunBurst/tony-pham.jpg"
       alt="color explosion at festival"
       title="Photo by Tony Pham"
@@ -21,7 +22,7 @@
       Nau mai ki te wā tuki puoro mutunga kore! Kia rite mō tētahi rā ki tonu i
       te puoro ora, ngā kai reka, me ngā maharatanga mutungakore
     </p>
-    <img
+    <Image
       src="/Home:SunBurst/james-genchi.jpg "
       alt=" People at festival with confetti"
       title="Photo by James Genchi"
@@ -42,7 +43,7 @@
       Ko ngā wāhi puni he $15 ia pō, $40 rānei mēnā ka tukuna he tēneti.
     </p>
 
-    <img
+    <Image
       src="/Home:SunBurst/aranxa-esteve.jpg"
       alt="People sitting on hill at festival"
       title="Photo by Aranxa Esteve"
@@ -70,10 +71,6 @@
     padding-top: 50px;
   }
 
-  img {
-    width: 900px;
-  }
-
   .SunMain {
     display: flex;
     flex-direction: column;
@@ -89,9 +86,6 @@
       margin-right: 7px;
     }
 
-    img {
-      width: 500px;
-    }
     p {
       font-family: "Ibarra Real Nova";
       color: #612a9e;

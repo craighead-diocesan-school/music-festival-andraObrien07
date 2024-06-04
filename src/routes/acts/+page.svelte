@@ -2,6 +2,7 @@
     import Header from "$lib/Header.svelte";
     import Footer from "$lib/Footer.svelte";
     import Nav from "$lib/Nav.svelte";
+    import Image from "$lib/Image.svelte";
 </script>
 
 <Header />
@@ -11,6 +12,7 @@
     <h2>Acts / Wāhanga</h2>
     <div class=" ActsMain">
         <img
+            Image
             src="/Acts/danny-howe.jpg"
             alt="back stage view of band playing with sun streaming in"
             title="Photo by Danny Howe"
@@ -32,6 +34,7 @@
         </p>
 
         <img
+            Image
             src="/Acts/maxwell-collins.jpg"
             alt="backstage view of someone singing with crowd watching"
             title="Photo by Maxwell Collins"
@@ -52,6 +55,7 @@
             musicians.
         </p>
         <img
+            Image
             src="/Acts/colin-lloyd.jpg"
             alt="close up of a DJ with a microphone on stage"
             title="Photo by Colin Lloyd"
@@ -69,6 +73,7 @@
         </p>
 
         <img
+            Image
             src="/Acts/aditya-chinchure.jpg"
             alt="behind crowd with rainbow lights and white confetti falling"
             title="Photo by Aditya Chinchure"
