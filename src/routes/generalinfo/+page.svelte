@@ -15,7 +15,7 @@
         <Image
             src="/General Information/jade-masri.jpg"
             alt="people in the crowd on other peoples shoulders"
-            title="Jade Masri"
+            title="Photo taken by Jade Masri"
         />
         <p>
             Welcome to the ultimate music festival experience! Get ready for a
@@ -24,7 +24,7 @@
         <Image
             src="/General Information/tijs-van-leur.jpg"
             alt="people in front of stage with orange hue"
-            title="Tijs Van Leur"
+            title="Photo taken by Tijs Van Leur"
         />
         <p>
             Our festival features a diverse lineup of talented musicians from
@@ -37,7 +37,7 @@
         <Image
             src="/General Information/colin-lloyd-2.jpg"
             alt="view from mid crowd of stage with flames"
-            title="Colin Lloyd"
+            title="Photo taken by Colin Lloyd"
         />
         <p>
             From up-and-coming artists to established headliners, we have
@@ -50,7 +50,7 @@
         <Image
             src="/General Information/samuel-regan-asante.jpg"
             alt="purple confetti falling on crowd with stage behind it"
-            title="Samuel Regan Asante"
+            title="Photo take by Samuel Regan Asante"
         />
         <p>
             But the music is just the beginning. Our festival also boasts an

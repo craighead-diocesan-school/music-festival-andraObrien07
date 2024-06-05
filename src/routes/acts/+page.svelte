@@ -14,7 +14,7 @@
         <Image
             src="/Acts/danny-howe.jpg"
             alt="back stage view of band playing with sun streaming in"
-            title="Danny Howe"
+            title="Photo taken by Danny Howe"
         />
         <p>
             The music festival boasts an exciting lineup of talented musicians
@@ -35,7 +35,7 @@
         <Image
             src="/Acts/maxwell-collins.jpg"
             alt="backstage view of someone singing with crowd watching"
-            title="Maxwell Collins"
+            title="Photo taken by Maxwell Collins"
         />
         <p>
             On the second stage, indie bands and singer-songwriters showcase
@@ -55,7 +55,7 @@
         <Image
             src="/Acts/colin-lloyd.jpg"
             alt="close up of a DJ with a microphone on stage"
-            title="Colin Lloyd"
+            title="photo taken by Colin Lloyd"
         />
         <p>
             Throughout the festival, DJs and electronic acts keep the energy up
@@ -72,7 +72,7 @@
         <Image
             src="/Acts/aditya-chinchure.jpg"
             alt="behind crowd with rainbow lights and white confetti falling"
-            title="Aditya Chinchure"
+            title="Photo taken by Aditya Chinchure"
         />
     </div>
 </main>
