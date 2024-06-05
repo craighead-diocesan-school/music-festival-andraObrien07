@@ -6,7 +6,6 @@
 
 <figure>
     <img {src} {alt} {title} />
-    <figcaption>Photo taken by {title}</figcaption>
 </figure>
 
 <style>
