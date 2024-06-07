@@ -89,7 +89,6 @@
 
     p {
       font-family: "Ibarra Real Nova";
-      color: #612a9e;
       text-align: center;
       width: 350px;
       font-size: 12px;

@@ -9,7 +9,6 @@
 <Nav />
 
 <main>
-    <!-- <div class="GinfoMain"> -->
     <h2>General Information / Mōhiohio Whānui</h2>
     <div class="GinfoMain">
         <Image
@@ -102,7 +101,7 @@
 
         p {
             font-family: "Ibarra Real Nova";
-            color: #612a9e;
+
             text-align: center;
             width: 350px;
             font-size: 12px;

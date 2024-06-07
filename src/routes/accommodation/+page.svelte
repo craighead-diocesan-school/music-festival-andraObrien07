@@ -15,7 +15,7 @@
         <Image
             src="/Accommodation/krists-luhaers.jpg"
             alt="person dancing in front of tents"
-            Title="Photo taken by Krists Luhaers"
+            title="Photo taken by Krists Luhaers"
         />
 
         <p>
@@ -115,7 +115,7 @@
 
         p {
             font-family: "Ibarra Real Nova";
-            color: #612a9e;
+
             text-align: center;
             width: 350px;
             font-size: 12px;
